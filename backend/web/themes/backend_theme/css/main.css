@@ -1,0 +1,46 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container-fluid {
+padding-right: 0px;
+padding-left: 0px;
+margin-right: auto;
+margin-left: auto;
+}
+.header_bg {
+background-color: #dd4b39;
+border-color: #dd4b39;
+height: 60px;
+}
+.logo_pding{
+    padding-right: 10%;
+}
+.menu_btn{
+    padding-top: 1%;
+}
+.menu_right_btn{
+    text-align: right;
+}
+.header_right_icon{
+    padding-top: 2%;
+}
+.header_right_icon li{
+list-style: none;
+display: inline;
+padding-left: 2%;
+}
+.header_right_icon li a{
+text-decoration: none;
+color: #ffffff;
+}
+
+sup{
+    top: -1em;
+}
+sup {
+    position: relative;
+    font-size: 90%;
+    line-height: 0;
+    vertical-align: baseline;
+}
